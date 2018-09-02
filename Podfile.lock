@@ -1,0 +1,20 @@
+PODS:
+  - SwiftLint (0.26.0)
+  - TPPDF (1.2.0):
+    - SwiftLint
+
+DEPENDENCIES:
+  - TPPDF
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SwiftLint
+    - TPPDF
+
+SPEC CHECKSUMS:
+  SwiftLint: f6b83e8d95ee1e91e11932d843af4fdcbf3fc764
+  TPPDF: 11ed6f19782bc0aa66b86085fa952b68a00d931e
+
+PODFILE CHECKSUM: 6ca506f3c71edf637285347c3d1735896ef01506
+
+COCOAPODS: 1.5.2
